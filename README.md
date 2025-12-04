@@ -1,4 +1,4 @@
-This repo was forked and is maintained by the [Public Environmental Data Partners](https://screening-tools.com/).
+_This repo was forked and is maintained by the [Public Environmental Data Partners](https://screening-tools.com/)._
 
 ## Determining the Predictive Limit of QSAR Models
 #### Author: Scott Kolmar
